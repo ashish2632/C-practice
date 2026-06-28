@@ -33,3 +33,5 @@ Daily C programming practice for selection in Axis Coding Club's elite Top-30 ba
 
 ---
 ⭐ If you’re also preparing for Coding Club, feel free to fork!
+---
+**YOLO Badge Unlocked** 🚀 | `2026-06-28`

@@ -1,1 +1,43 @@
+average
+celsius
+condition
+condition2
+equal
+even
+example1
+factorial
+fahrenheit
+func_table
+income
+interest
+leap
 maxmin
+prime2
+pro
+problem
+problem2
+reverse
+simple
+simple2
+simple3
+sum
+swap
+switch
+switch2
+swp2
+test-ubuntu
+two
+
+# Generic patterns
+a.out
+*.o
+*.out
+*.exe
+
+# Editor files
+*.swp
+*~
+.example1.c.swp
+
+# VS Code
+.vscode/

@@ -41,3 +41,15 @@ a.out
 
 # VS Code
 .vscode/
+*.o
+*.out
+a.out
+loop
+hello
+*.o
+*.out
+a.out
+ascii
+ascii2
+prime
+swp

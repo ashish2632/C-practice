@@ -1,3 +1,10 @@
+# C Compiled files - ye line sab handle kar legi
+*.o
+*.out
+*.exe
+a.out
+
+# Saare executables - bina extension wale
 average
 celsius
 condition
@@ -14,7 +21,6 @@ leap
 maxmin
 prime2
 pro
-problem
 problem2
 reverse
 simple
@@ -27,29 +33,14 @@ switch2
 swp2
 test-ubuntu
 two
-
-# Generic patterns
-a.out
-*.o
-*.out
-*.exe
-
-# Editor files
-*.swp
-*~
-.example1.c.swp
-
-# VS Code
-.vscode/
-*.o
-*.out
-a.out
 loop
 hello
-*.o
-*.out
-a.out
 ascii
 ascii2
 prime
 swp
+
+# Editor files
+*.swp
+*~
+.vscode/
